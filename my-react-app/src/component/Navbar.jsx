@@ -43,6 +43,7 @@ const Navbar = () => {
            <div className="btn bg-danger text-white mx-2"  onClick={handleout}>
           logout
           </div>
+          <p>this is updated in the final round of the emerging 5 company</p>
 
 
           </div>
