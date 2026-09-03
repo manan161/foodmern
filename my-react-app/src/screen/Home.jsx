@@ -117,8 +117,10 @@ const Home = () => {
       <div>
         <Footer/>
       </div>
+      <h2>i have a key in this visual studeios when the function is callled</h2>
 
     </div>
+
   )
 }
 
